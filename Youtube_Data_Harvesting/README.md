@@ -8,7 +8,7 @@ BATCH: DTM7
 
 DOMAIN : DATA SCIENCE
 
-DEMO VIDEO URL: 
+DEMO VIDEO URL: https://drive.google.com/file/d/16felPxn8LDAlSN5SJpbTTqqPJXJJmuXi/view?usp=drivesdk
 
 LINKED IN URL : 
 
