@@ -8,7 +8,7 @@ from googleapiclient.discovery import build
 from PIL import Image
 
 # SETTING PAGE CONFIGURATIONS
-icon = Image.open('C:\\Users\\HP\\Desktop\\Youtube_logo.png')
+icon = Image.open('C:\\Users\\KAVIPRIYA\\Desktop\\Youtube_logo.png')
 st.set_page_config(page_title= "Youtube Data Harvesting and Warehousing | By kavipriya",
                    page_icon= icon,
                    layout= "wide",
@@ -34,7 +34,7 @@ db = client.Youtube_Data_kavipriya
 # CONNECTING WITH MYSQL DATABASE
 mydb = sql.connect(host="127.0.0.1",
                    user="root",
-                   password="SAIkavi@1234",
+                   password="Saikavi@123",
                    database= "youtube_data_harvesting",
                    port = "3306"
                   )
