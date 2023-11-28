@@ -54,5 +54,5 @@ an image of a business card and extract relevant information from it using easyO
 **Overall, the result of the project would be a useful tool for businesses and individuals
 who need to manage business card information efficiently.**
 
-**DEMO VIDEO URL**:
+**DEMO VIDEO URL**: https://drive.google.com/file/d/1DgXty_VEjxK_8r0TPVHE7ZXIBsxNsPPK/view?usp=drivesdk
  
