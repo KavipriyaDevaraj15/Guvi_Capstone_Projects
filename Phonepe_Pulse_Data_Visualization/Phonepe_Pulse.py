@@ -271,7 +271,7 @@ if SELECT == "Explore Data":
         df1 = pd.DataFrame(cursor.fetchall(), columns=['State', 'Total_Users', 'Total_Appopens'])
         df2 = pd.read_csv(r"C:\\Users\\KAVIPRIYA\\Downloads\\Statenames.csv")
         df1.Total_Appopens = df1.Total_Appopens.astype(float)
-        df1.State = df2
+        df2.State = df1
 
         # BAR CHART TOTAL UERS - DISTRICT WISE DATA
         st.markdown("## :violet[Select any State to explore more]")
