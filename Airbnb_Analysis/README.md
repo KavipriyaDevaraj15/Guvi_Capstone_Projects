@@ -96,7 +96,7 @@
    **Collaboration and Project Management**: Strengthen collaboration and project management skills through the end-to-end development 
    of the project, including task planning, coordination, and timely delivery of project milestones.
 
-**DEMO VIDEO URL**:
+**DEMO VIDEO URL**: https://drive.google.com/file/d/1Ft7T2ekBtpOBZ87678t0jcx_qOrr-UUe/view?usp=drivesdk
 
 
 
