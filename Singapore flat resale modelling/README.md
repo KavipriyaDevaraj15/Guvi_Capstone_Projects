@@ -30,17 +30,19 @@ The project will involve the following tasks:
 DELIVERABLES:
 The project will deliver the following deliverables:
 
-A well-trained machine learning model for resale price prediction.
+* A well-trained machine learning model for resale price prediction.
 
-A user-friendly web application (built with Streamlit/ Flask / Django) deployed on the Render platform/ Any Cloud Platform
+* A user-friendly web application (built with Streamlit/ Flask / Django) deployed on the Render platform/ Any Cloud Platform
 
-Documentation and instructions for using the application.
+* Documentation and instructions for using the application.
 
-A project report summarizing the data analysis, model development, and deployment process.
+* A project report summarizing the data analysis, model development, and deployment process.
 
 DATA SOURCE : https://beta.data.gov.sg/collections/189/view
 
 RESULTS: The project will benefit both potential buyers and sellers in the Singapore housing market. Buyers can use the application to estimate resale prices and make informed decisions, while sellers can get an idea of their flat's potential market value. Additionally, the project demonstrates the practical application of machine learning in real estate and web development.
+
+DEMO VIDEO URL:
 
 
 
