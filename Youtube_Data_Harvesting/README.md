@@ -47,7 +47,6 @@
 
 **Overall, this approach involves building a simple UI with Streamlit, retrieving data from the YouTube API, storing it in a MongoDB data lake, migrating it to a SQL data warehouse, querying the data warehouse with SQL, and displaying the data in the Streamlit app.**
    
-**DEMO VIDEO URL**: https://drive.google.com/file/d/1DSyx-TLEp9DEmXIfjba6PRr2p3MOJ5bA/view?usp=drivesdk
  
 
 
