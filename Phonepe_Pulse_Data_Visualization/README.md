@@ -44,7 +44,5 @@ This approach leverages the power of Python and its numerous libraries to extrac
 
 **Overall, the result of this project will be a comprehensive and user-friendly solution for extracting, transforming, and visualizing data from the Phonepe pulse Github repository**.
 
-**DEMO VIDEO URL**: https://drive.google.com/file/d/1Fs1sTrD-apHiHBIbs5iEXAmpfxLcSwYm/view?usp=drivesdk
- 
 
 
