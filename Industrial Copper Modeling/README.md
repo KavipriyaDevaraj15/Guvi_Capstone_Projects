@@ -131,7 +131,7 @@
 
 **Overall, this project will equip you with practical skills and experience in data analysis, machine learning modeling, and creating interactive web applications, and provide you with a solid foundation to tackle real-world problems in the manufacturing domain.**
 
-**DEMO VIDEO URL**:
+**DEMO VIDEO URL**:https://drive.google.com/file/d/1rzem9kpjSX8lfwcEh3MoUga47Im0gCBs/view?usp=drivesdk
 
 
 
